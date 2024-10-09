@@ -1,0 +1,7 @@
+packages:
+  - DRpower # repo link: https://github.com/mrc-ide/drpower
+  - shiny
+  - learnr
+package_sources:
+  github:
+  - mrc-ide/drpower
